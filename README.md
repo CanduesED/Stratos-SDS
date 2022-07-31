@@ -2,12 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/101149671/181830792-fe8274cc-b1bc-4787-b5cc-2412dcaefb3a.png)
 
-<h1 align="center"> Selamlar arkdaşlar, bugün Stratos SDS ödüllü testnetine katılacağız. </h1>
-
-## Öncelikle sorularınız için kanala katılın: [Stratos Türkiye](https://t.me/StratosTurkish)
-
-<h1 align="center"> ÖNEMLİ! Arkadaşlar kolay bir testnet olmayacak, kurmanız belki 2 belki 3 günü olacak, çok büyük bir ricamdır sabırlı olmanız, bu flood vs. silindi tekrar yazdım, ricamdır sabırlı olmanız ve stratos türkiye grubunun sabitli mesajlarını ara ara bakmanız, tek isteğim :heart: </h1>
-
 # ÖNEMLİ NOTLAR:
 
 * SDS kurmak için validator oluşturmanız gerekmez
