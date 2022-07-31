@@ -10,8 +10,6 @@
 
 ## Sistem gereksinimleri:
 
-* Not: 160 SSD'de yeterli olur yüksek ihtimal.
-
 ```
 4 cpu 
 8 ram 
